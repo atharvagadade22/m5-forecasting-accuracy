@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+*.py[cod]
+
+# Local Python environments
+venv/
+.venv/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Source datasets and generated CSV outputs
+*.csv
